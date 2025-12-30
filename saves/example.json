@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "name": "Example",
+    "cooldown": 4
+  },
+  "actions": [
+    {
+      "type": "key",
+      "key": "1",
+      "repeat": 5,
+      "interval": 0.2
+    }
+  ]
+}
